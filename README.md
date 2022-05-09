@@ -96,12 +96,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/zakaria-el-mourtazak-b80982234/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="z.elmourtazak@etu.enset-media.ac.ma"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/invites/contact/?i=1kcaksvw3ue6y&utm_content=nslp356"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://m.facebook.com/zakaria.ssj.1"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/zakaria70292566"><img src="https://img.shields.io/badge/-@AVS1508-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-@zakaria.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zakaria-el-mourtazak-b80982234/"><img src="https://img.shields.io/badge/-zakaria EL MOURTAZAK-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="z.elmourtazak@etu.enset-media.ac.ma"><img src="https://img.shields.io/badge/-z.elmourtazak@etu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/invites/contact/?i=1kcaksvw3ue6y&utm_content=nslp356"><img src="https://img.shields.io/badge/-@zakaria__coder-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://m.facebook.com/zakaria.ssj.1"><img src="https://img.shields.io/badge/-zakaria EL MOURTAZAK-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/zakaria70292566"><img src="https://img.shields.io/badge/-zakaria EL MOURTAZAK-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 © 2022 GitHub, Inc.
 Terms
